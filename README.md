@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=wjinss's%20github&color=gradient&customColorList=19&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=wjinss's%20github&color=gradient&customColorList=19&fontColor=9fa5b4)
 
 ## Tech Stack
 
